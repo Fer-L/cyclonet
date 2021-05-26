@@ -1,7 +1,7 @@
 <h1 align="center">Cyclonet</h1>
 <p align="center">🌀 Uma rede neural artificial que utiliza das técnicas de Transfer Learning e Data Augmentation para identificar ciclones tropicais a partir de imagens de oceano tiradas por satélites.</p>
 
-<img align="center" src="https://img.shields.io/badge/Python-v3.8.1-yellow"/>
+<img src="https://img.shields.io/badge/Python-v3.8.1-yellow" style="align:center;"/>
 
 ### 🎲 Dataset
 
